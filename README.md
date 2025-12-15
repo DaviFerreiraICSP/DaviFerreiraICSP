@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there! I'm Davi
 
-<!--
-**DaviFerreiraICSP/DaviFerreiraICSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full-Stack Developer in training.
 
-Here are some ideas to get you started:
+Currently interning at [Longview](https://github.com/LongviewBR), gaining hands-on experience in modern application development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My Current Focus
+
+I'm focused on building robust and scalable applications.
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Primary Languages** | Python, TypeScript, JavaScript |
+| **Framework** | NestJS |
+| **Learning/Exploring** | [ NestJs - AWS ]
+| **OS** | Linux [Ubuntu - Arch] 
+---
+
+### 💡 Let's Connect!
+
+[Email: davidossantosferreirasilva@gmail.com]
