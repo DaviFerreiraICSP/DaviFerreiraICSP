@@ -11,7 +11,7 @@ I'm focused on building robust and scalable applications.
 | Category | Tools & Languages |
 | :--- | :--- |
 | **Primary Languages** | Python, TypeScript, JavaScript |
-| **Framework** | NestJS |
+| **Framework** | NestJs |
 | **Learning/Exploring** | NestJs - AWS |
 | **OS** | Linux [Ubuntu - Arch] |
 ---
