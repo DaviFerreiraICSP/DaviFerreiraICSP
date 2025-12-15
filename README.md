@@ -1,6 +1,6 @@
-# 👋 Hi there! I'm Davi
+### 👋 Hi there! I'm Davi
 
-### 💻 Full-Stack Developer in training.
+## 💻 Full-Stack Developer in training.
 
 Currently interning at [Longview](https://github.com/LongviewBR), gaining hands-on experience in modern application development.
 
