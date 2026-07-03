@@ -2,11 +2,11 @@
 
 ## 💻 Full-Stack Developer
 
-Currently interning at [Longview](https://github.com/LongviewBR), gaining hands-on experience in modern application development. I enjoy building robust, scalable applications — from REST APIs to full web and mobile products.
+Currently interning at [Longview](https://github.com/LongviewBR), gaining hands-on experience in modern application development. I enjoy building robust, scalable applications — from REST APIs to full web and mobile products, all the way to self-hosting them on my own Linux server.
 
 ### 🚀 My Current Focus
 
-I'm focused on building robust and scalable applications, deepening my backend skills and exploring new languages and cloud tooling.
+I'm focused on building robust and scalable applications, deepening my backend skills and getting comfortable across the whole stack — from code to deployment.
 
 ### 🧰 Tech Stack
 
@@ -15,7 +15,8 @@ I'm focused on building robust and scalable applications, deepening my backend s
 | **Languages** | TypeScript · JavaScript · Python · Rust |
 | **Backend** | NestJS · Node.js · Supabase |
 | **Frontend** | React · React Native · Next.js |
-| **Learning / Exploring** | Docker · AWS · Rust |
+| **DevOps / Infra** | Docker · Ubuntu Server · Linux |
+| **Learning / Exploring** | AWS |
 | **OS** | Linux [Ubuntu · Arch] |
 
 ---
