@@ -71,11 +71,9 @@ Full-stack geolocated historical exploration app with AI-generated narratives. S
 **[Julio & Thaise](https://julio-thaise.vercel.app)** — `Node.js` · `React` · `Stripe` · `Mercado Pago` · `Docker`
 Wedding management platform with 47 API routes and two payment gateways (international and domestic). In real use — processed gifts and guest confirmations.
 
-**Julia** — `Rust` · `Tokio` · `Iced UI`
-Desktop AI assistant with a workspace architecture (4 crates), async runtime, and AI response streaming.
-
 ---
 
 ### 💡 Let's Connect!
 
 📫 **Email:** davidossantosferreirasilva@gmail.com
+💼 **LinkedIn:** [linkedin.com/in/davi-ferreira-6229a6218](https://www.linkedin.com/in/davi-ferreira-6229a6218)
